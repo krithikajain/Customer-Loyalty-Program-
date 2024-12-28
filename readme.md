@@ -3,7 +3,23 @@
 ### Overview
 
 LoyaltyFirst is an end-to-end Android application that integrates with a server-side database to manage customer loyalty programs. The project implements a 3-tier architecture comprising the client (Android app), server-side servlets, and database layers. It enables users to log in, view transactions, redeem rewards, and manage family points effectively.
+## Tech Stack
 
+### Frontend (Android App)
+- **Language:** Java  
+- **UI:** XML Layouts, Spinners, Buttons, TextViews, ImageViews  
+- **Networking:** Volley Library  
+- **Tools:** Android Studio  
+
+### Backend
+- **Language:** Java (Servlets)  
+- **Framework:** Apache Tomcat  
+- **Database Connectivity:** JDBC  
+- **Pages:** JSP for dynamic content  
+
+### Database
+- **RDBMS:** MySQL
+  
 ## Features
 - **User Authentication**
   - Login with username and password.
