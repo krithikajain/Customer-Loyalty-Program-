@@ -1,6 +1,6 @@
-##Customer Loyalty Program
+## Customer Loyalty Program
 
-###Overview
+### Overview
 
 LoyaltyFirst is an end-to-end Android application that integrates with a server-side database to manage customer loyalty programs. The project implements a 3-tier architecture comprising the client (Android app), server-side servlets, and database layers. It enables users to log in, view transactions, redeem rewards, and manage family points effectively.
 
